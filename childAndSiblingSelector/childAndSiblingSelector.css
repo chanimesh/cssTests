@@ -1,0 +1,16 @@
+p{
+height:40px;
+width:100%;
+}
+
+#top-div > p {
+color: red;
+}
+
+#inner-div-one + p {
+background-color: green;
+}
+
+#inner-div-one ~ p {
+font-size: 30px;
+}
